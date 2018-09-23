@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 grieshg iegoweugehwiw
+=======
+"Welcome to Github"
+>>>>>>> 5212d112dd0f0a23bfa0460e75f1e9920561d5c9
